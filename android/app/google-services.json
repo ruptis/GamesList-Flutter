@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707789875606",
+    "project_id": "games-list-1967f",
+    "storage_bucket": "games-list-1967f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707789875606:android:31cbfa58e5ed78282755b7",
+        "android_client_info": {
+          "package_name": "by.bsuir.gameslist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCseUxyff7OO5UGTY4VCyYhDT5-SOujvH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
